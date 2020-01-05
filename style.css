@@ -1,0 +1,88 @@
+html {
+    height:100%;
+     }
+
+body {
+    background:white;
+
+    background-size:cover;
+    font-family: 'Baskervville', serif;
+    color:black;
+    }
+
+    .container {
+        width:1000px;
+        margin-left:auto;
+        margin-right:auto;
+        min-height:1000px;
+        
+
+    }
+
+.navbar {
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    padding-bottom:30px;
+}
+  
+a {
+    font-size:1.55rem;
+    color:black;
+    align-content:center;
+    text-decoration:none;
+
+}
+.linkmonths {
+    text-align:center;
+    padding-top:40px;
+}
+.styleme {
+    padding-right:25px;
+    align-content:center;
+}
+    
+
+p {
+    font-size:1.25rem;
+    align-items:center;
+}
+
+
+
+.collage {
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+
+
+
+
+.threeline {
+    font-size:3.5rem;
+    text-decoration:bold; 
+    align-items:center;
+    text-align:center;
+
+}
+
+
+.firstcollage {
+    padding-bottom:25px;
+    padding-top:25px;
+
+}
+
+.secondcollage {
+    padding-top:25px;
+}
+
+footer {
+    text-align:center;
+    width:998px;
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:100px;
+    
+}
